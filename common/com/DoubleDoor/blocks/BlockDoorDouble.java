@@ -19,9 +19,9 @@ public class BlockDoorDouble extends BlockDoor
     public static Block wood = null;
     public static Block iron = null;
 
-    protected BlockDoorDouble(int var1, Material var2)
+    public BlockDoorDouble(int var1, Material var2)
     {
-        super(var1, var2);
+        super(var1, var2);        
     }
 
     /**
